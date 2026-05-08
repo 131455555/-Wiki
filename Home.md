@@ -18,4 +18,9 @@
 
 ## 最近整理
 
-待更新。
+- 2026-05-08：[[rk3568-uboot-usage|RK3568 Linux驱动学习：U-Boot 使用]]
+  - [[u-boot|U-Boot]]
+  - [[bootloader|Bootloader]]
+  - [[u-boot-environment-variables|U-Boot 环境变量]]
+  - [[u-boot-network-debugging|U-Boot 网络调试]]
+  - [[boot-fit|boot_fit]]

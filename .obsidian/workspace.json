@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "wiki/concepts/boot-fit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "boot-fit"
             }
           }
         ],
@@ -123,9 +123,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "wiki/concepts/boot-fit.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Home 的反向链接列表"
+              "title": "boot-fit 的反向链接列表"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "wiki/concepts/boot-fit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Home 的出链列表"
+              "title": "boot-fit 的出链列表"
             }
           },
           {
@@ -185,21 +185,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "wiki/concepts/boot-fit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 的大纲"
+              "title": "boot-fit 的大纲"
+            }
+          },
+          {
+            "id": "75f2970b333ee018",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +226,17 @@
   },
   "active": "9ece8e6857705cd1",
   "lastOpenFiles": [
+    "raw/2026-05-08-rk3568-uboot-usage.md",
+    "wiki/concepts/boot-fit.md",
+    "wiki/concepts/bootloader.md",
+    "wiki/concepts/u-boot.md",
+    "wiki/concepts/u-boot-environment-variables.md",
+    "wiki/concepts/u-boot-network-debugging.md",
     "AGENTS.md",
     "Home.md",
+    "wiki/source-notes/rk3568-uboot-usage.md",
+    "wiki/concepts",
+    "wiki/source-notes",
     "LLM Wiki.md",
     "Obsidian Git Sync.md",
     "README.md",
